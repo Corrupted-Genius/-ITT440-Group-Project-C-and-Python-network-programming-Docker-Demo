@@ -38,3 +38,4 @@ Create a docker that have multiple container (C client, C server, Py client, Py 
 <br>
 
 ## 4.0 YOUTUBE VIDEO
+Watch the system run at : https://youtu.be/WCfpPsHZxC8 
