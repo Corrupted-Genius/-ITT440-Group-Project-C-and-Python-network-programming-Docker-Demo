@@ -24,6 +24,9 @@ Create a docker that have multiple container (C client, C server, Py client, Py 
 
 ### 1.4 PROJECT STRUCTURE
 
+<img width="531" height="529" alt="image" src="https://github.com/user-attachments/assets/53b4a44e-2ec5-406c-9902-16f1236f2074" />
+<br> Colors via different icons (🔷 for C, 🟢 for Python, 🔴 for Web)
+
 <br>
 <br>
 
