@@ -29,10 +29,30 @@ Create a docker that have multiple container (C client, C server, Py client, Py 
 
 ## 2.0 HOW TO RUN AND STOP
 
+To run the file/docker : 
+1. Install docker and set it up.
+2. For Windows, install Windows Subsystem For Linuz (WSL) and set it up.
+3. Run Docker (Need to set up account for the first time) , then minimize it and DO NOT CLOSE THE DOCKER.
+4. Open file folder.
+5. Click path and type CMD directly at the path.
+6. Once CMD is opened, type "docker compose up --build".
+7. Set up any necessary requirements if asked (For the 1st time run).
+8. File is running.
+
+<br>
+
+To Stop the file/docker :
+1. Detach the system by pressing "d".
+2. Type "docker compose down".
+
 <br>
 <br>
 
 ## 3.0 ACCESS THE SERVICES
+
+You can access the web view by visiting this site :  http://localhost:5000
+<br>
+Please note that it takes around 20 seconds before it starts showing the leaderboards. 
 
 <br>
 <br>
