@@ -5,15 +5,36 @@
 <br>
 <br>
 
-## PROJECT DETAILS
+## 1.0 PROJECT DETAILS
 
-### OBJECTIVE
+### 1.1 OBJECTIVE
 Create a docker that have multiple container (C client, C server, Py client, Py server) and demonstrate network programming concept (live leaderboard)
 
 <br>
 
-### FEATURES
+### 1.2 FEATURES
 - Live auto refresh leaderboard
 - Full containerized environment
 - Real time point update
 - Error Handling and Retry mechanisms to prevent unnecessary halt
+
+### 1.3 SYSTEM ARCHITECTURE
+
+<br>
+
+### 1.4 PROJECT STRUCTURE
+
+<br>
+<br>
+
+## 2.0 HOW TO RUN AND STOP
+
+<br>
+<br>
+
+## 3.0 ACCESS THE SERVICES
+
+<br>
+<br>
+
+## 4.0 YOUTUBE VIDEO
